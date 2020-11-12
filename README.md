@@ -3,4 +3,4 @@ Red Team Toolset written in F# (Experimental)
 
 # Simple shellcode loader code
 
-shellcode.c
+shellcode.fs (Compile with Visual Studio F# compiler)
